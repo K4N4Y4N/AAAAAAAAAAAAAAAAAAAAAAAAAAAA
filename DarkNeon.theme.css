@@ -30,6 +30,6 @@
   --background-image: url(https://1.bp.blogspot.com/-d0dRj_t6MMA/X4r_9P3iTlI/AAAAAAAAcCM/1fmNPqsMXTUkafEtKa1zl5w6tW-N09-gQCLcBGAsYHQ/s16000/galaxy-desktop-wallpaper-HD.png); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
-  --background-blur: px; /* Blurs the image which helps with readability of text infront of it */
-  --background-brightness: 75%; /* Changes the background images brightness */
+  --background-blur: 10px; /* Blurs the image which helps with readability of text infront of it */
+  --background-brightness: 25%; /* Changes the background images brightness */
 }
