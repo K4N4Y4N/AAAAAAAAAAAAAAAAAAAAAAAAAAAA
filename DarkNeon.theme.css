@@ -30,6 +30,6 @@
   --background-image: url(https://cdn.discordapp.com/attachments/1161954319529164831/1164238518206345316/bligongle2.png?ex=65427c9d&is=6530079d&hm=e35f361a5a91fb3c9015a33546a5e04d49b714afc672e2478af027b76b2095be&); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
-  --background-blur: 10px; /* Blurs the image which helps with readability of text infront of it */
-  --background-brightness: 25%; /* Changes the background images brightness */
+  --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
+  --background-brightness: 65%; /* Changes the background images brightness */
 }
